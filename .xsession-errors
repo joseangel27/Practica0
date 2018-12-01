@@ -1,0 +1,3 @@
+openConnection: connect: No existe el archivo o el directorio
+cannot connect to brltty at :0
+upstart: update-notifier-release main proceso (2347) terminó con estatus 126

@@ -8,3 +8,5 @@ QCoreApplication::postEvent: Unexpected null receiver
 [31mvoid DBusMenuImporter::slotGetLayoutFinished(QDBusPendingCallWatcher*)[0m: "No existe tal interfaz «com.canonical.dbusmenu» en ruta de objeto /org/ayatana/bamf/window/67108996"
 [31mvoid DBusMenuImporter::slotGetLayoutFinished(QDBusPendingCallWatcher*)[0m: "No existe tal interfaz «com.canonical.dbusmenu» en ruta de objeto /org/ayatana/bamf/window/69213363"
 [31mvoid DBusMenuImporter::slotGetLayoutFinished(QDBusPendingCallWatcher*)[0m: "No existe tal interfaz «com.canonical.dbusmenu» en ruta de objeto /org/ayatana/bamf/window/69213472"
+[31mvoid DBusMenuImporter::slotGetLayoutFinished(QDBusPendingCallWatcher*)[0m: "No existe tal interfaz «com.canonical.dbusmenu» en ruta de objeto /org/ayatana/bamf/window/65011844"
+[31mvoid DBusMenuImporter::slotGetLayoutFinished(QDBusPendingCallWatcher*)[0m: "No existe tal interfaz «com.canonical.dbusmenu» en ruta de objeto /org/ayatana/bamf/window/65011844"

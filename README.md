@@ -1,3 +1,4 @@
+Introducin a GIT
 git init
 Con este comando de git lo que estamos haciendo es decirle a git que este pendiente de los cambios que se produzcan en los archivos de ese directorio.
 git status

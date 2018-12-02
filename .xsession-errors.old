@@ -1,0 +1,19 @@
+openConnection: connect: No existe el archivo o el directorio
+cannot connect to brltty at :0
+upstart: update-notifier-release main proceso (2347) terminó con estatus 126
+upstart: unity-settings-daemon main proceso (1242) interumpido por la señal HUP
+upstart: unity-panel-service main proceso (1259) interumpido por la señal HUP
+upstart: indicator-bluetooth main proceso (1295) interumpido por la señal TERM
+upstart: indicator-power main proceso (1296) interumpido por la señal TERM
+upstart: indicator-datetime main proceso (1297) interumpido por la señal TERM
+upstart: indicator-keyboard main proceso (1298) interumpido por la señal HUP
+upstart: indicator-sound main proceso (1299) interumpido por la señal HUP
+upstart: indicator-printers main proceso (1300) interumpido por la señal TERM
+upstart: indicator-session main proceso (1301) interumpido por la señal TERM
+upstart: bamfdaemon main proceso (1108) interumpido por la señal TERM
+upstart: indicator-application main proceso (1302) interumpido por la señal TERM
+upstart: indicator-application pre-stop proceso (5687) interumpido por la señal TERM
+upstart: gnome-session (Unity) pre-stop proceso (5688) interumpido por la señal TERM
+upstart: gnome-session (Unity) main proceso (1250) interumpido por la señal HUP
+upstart: Disconnected from notified D-Bus bus
+upstart: hud main proceso (1240) interumpido por la señal SEGV

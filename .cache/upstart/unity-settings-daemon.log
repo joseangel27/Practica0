@@ -1,4 +1,0 @@
-
-(unity-settings-daemon:1242): keyboard-plugin-WARNING **: Unhandled settings change, key 'bell-custom-file'
-
-(unity-settings-daemon:1242): AccountsService-WARNING **: ActUserManager: user (null) has no username (object path: /org/freedesktop/Accounts/User1000, uid: 0)
